@@ -3,3 +3,56 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+#featured-property {
+   align-items:center;
+   text-align: center;
+}
+img { max-width: 100%;
+
+}
+header nav {
+  text-align: center;
+}
+header nav a {
+  padding: 10px;
+  background-color: grey;
+  }
+#featured-property figcaption {
+  text-align: center;
+  font-size: 14px; 
+}
+#featured-property {
+  text-align: center;
+  align-items:center
+
+}
+#featured-property {
+  text-align: center;
+}
+#featured-property p {
+  width:800px;
+  margin:auto;
+}
+#details div {
+ float: left;
+width: 25%;
+padding: 10px;;
+text-align: center;
+align-items: center;
+}
+
+#details::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#details div{
+  background-color: lightgray;
+  text-align: center;
+  color: white;
+ 
+}
+
